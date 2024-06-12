@@ -1,3 +1,5 @@
+%AUTHOR ROD CAPILI
+
 while true
     % Prompt the user to choose a root-finding method
     disp('Choose a root-finding method:');
